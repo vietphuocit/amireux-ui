@@ -1,0 +1,22 @@
+.admin-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 4px 2px -2px #f6f6f6;
+}
+
+.admin-header img {
+  width: 224px;
+  display: block;
+  background-color: #4e73df;
+}
+
+.avatar-admin {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: #4e73df;
+  color: #fff;
+  text-align: center;
+  cursor: pointer;
+}
